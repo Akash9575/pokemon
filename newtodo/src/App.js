@@ -6,7 +6,7 @@ import { useState } from 'react';
 import Edit from './components/Edit';
 
 function App() {
-  // test
+  // test 2
   const [data, setData] = useState([]);
   const [isEditing, setIsEditing] = useState(false);
   const [current, setCurrent] = useState({});
