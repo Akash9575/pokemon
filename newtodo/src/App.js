@@ -7,7 +7,6 @@ import Edit from './components/Edit';
 
 function App() {
   // test
-  console.log("akash sondarva")
   const [data, setData] = useState([]);
   const [isEditing, setIsEditing] = useState(false);
   const [current, setCurrent] = useState({});
